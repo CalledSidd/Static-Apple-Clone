@@ -1,0 +1,404 @@
+body{
+     background-color: #fbfbfd; 
+}
+*{
+    margin: 0;
+    padding:0;
+}
+.main-div{
+    position: fixed;
+    background-color: #313132;
+    height: 45px;
+    width: 100%;
+    display: flex;
+    overflow: hidden;
+}
+.header1{
+    
+    list-style: none;
+    width: 100%;
+    display: flex;
+    padding-left: 200px;
+}
+.applelogo{
+    width: 9px;
+    width: 30px;
+    padding-left: 20px;
+}
+.store{
+    width: 30px;
+    padding-left: 20px; 
+}
+.mac{
+    width: 30px;
+    padding-left: 50px;
+}
+.ipad{
+    width: 30px;
+    padding-left: 40px;
+}
+.iphone{
+    width: 30px;
+    padding-left: 50px;
+}
+.watch{
+    width: 30px;
+    padding-left: 40px;
+}
+.airpod{
+    width: 30px;
+    padding-left: 40px;
+}
+.tvandhome{
+    width: 30px;
+    padding-left: 70px;
+}
+.onlyonapple{
+    width: 30px;
+    padding-left: 80px;
+}
+.accesorries{
+    width: 30px;
+    padding-left: 90px;
+}
+.support{
+    width: 30px;
+    padding-left: 70px;
+}
+.search{
+    width: 30px;
+    padding-left: 60px;
+}
+.store{
+    width: 30px;
+    padding-left: 20px;
+}
+.iphon13{
+    background-color: #fbfbfd;
+    width: 100%;
+    height: 390px;
+}
+.iphon13 img{
+    width: 100%;
+    height: 450px;
+}
+.iphone13main{
+    height: 550px;
+    width: 100%;
+}
+.iphon13 h3{
+    text-align: center;
+    padding-top: 70px;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 50px;
+    font-style: bold;
+    font-weight: lighter;
+    font-weight: 600;
+}
+.iphon13 p{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    font-size: 37px;
+    
+}
+.iphonese{
+    width: 100%;
+    height: 600px;
+}
+.selogo{
+    position: relative;
+    margin-left: 650px;
+    margin-top: 300px;
+}
+.semainimage{
+    width: 100%;
+}
+.iphonese p{
+    margin-left: 600px;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 27px;
+    line-height: 25px;
+    letter-spacing: -0.374px;
+}
+.section2{
+    margin-top: 300px;
+    display: flex;
+}
+.ipadmain{
+    width: 50%;
+    background-color: black;
+}
+.ipadmain img{
+    margin-top: 40px;
+}
+.twoiphone13{
+width: 50%;
+background-color:#fbfbfd;
+}
+.twoiphone13 img{
+    margin-top: 150px;
+    width: 630px;
+    padding-left: 110px;
+}
+.twoiphone13 p{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    font-size: 37px;
+    margin-top: 20px;
+}
+.section3{
+    height: 450px;
+    display: flex;
+}
+
+.applewatch1{
+    width: 50%;
+    height: 150px;
+
+}
+.macstudio{
+    height:450px;
+    width: 50%;
+}
+.applewatch1 img{
+    padding-left: -50px;
+    padding-top: 98px;
+    margin-left: -80px;
+    height: 350px;
+}
+.macstudio img{
+    height: 350px;
+    margin-top: 10px;
+}
+.macstudio h3{
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+ text-align: center;
+ font-size: 28px;
+ margin-top: 20px
+}
+.macstudio p{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    font-size: 22px;
+}
+.section4{
+    display: flex;
+    overflow: hidden;
+}
+.studiodisplay img{
+
+    width: 100%;
+    height: 400px;
+    padding-left: 60px;
+
+}
+.studiodisplay h3{
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-left: 90px;
+    font-size: 22px;
+}
+.studiodisplay p{
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 17px;
+    margin-left: 90px;
+}
+.appletv{
+     background-color: #0d1a3a; 
+    width: 50%;
+    height: 550px;
+    margin-left: 220px;
+}
+.appletvlogo{
+    size: 80px;
+    width: 80px;
+    height: 80px;
+}
+.studiodisplay img{
+    height: 450px;
+    padding-left: 60px;
+}
+.appletv img{
+    width: 100%;
+    height: 450px;
+}
+.ipadlogo{
+    margin-top: 15px;
+    margin-left: 280px;
+}
+.ipadmain p{
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding-left: 250px;
+    font-size: 17px;
+    line-height: 25px;
+    letter-spacing: -0.374;
+}
+.ipadmain a{
+    margin-left: 260px;
+    
+}
+.footer{
+    width: 100%;
+    height: 35vw;
+    background-color: #f5f5f7;
+}
+.info{
+    width: 100%;
+    height: 180px;
+}
+.info p{
+    margin-top: 70px;
+    font-size: 13px;
+    letter-spacing: normal;
+    text-align: center;
+}
+/* defining footer sizes and adjusting them */
+.footer{
+    height: 600px;
+     background-color: #f5f5f7; 
+}
+.footersections{
+    background-color: #f5f5f7; 
+    font-family: "SF Pro Text", "Myriad Set Pro", "SF Pro Icons", "Apple Legacy Chevron", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    width: 90%;
+    margin:0 auto;
+    height: 400px;
+    display: flex;
+}
+.shopandlearn{
+    width: 20%;
+    height: 100%;
+}
+.services{
+    width: 20%;
+    height: 100%;
+}
+.applestore{
+    width: 20%;
+    height: 100%;
+}
+.forbusiness{
+    width: 20%;
+    height: 100%;
+}
+.applevalues{
+    width: 20%;
+    height: 100%;
+}
+.watchlogo{
+    margin-left: 100px;
+    width: 120px;
+    height: 120px;
+    
+}
+/* footer shop and learn section */
+.shopandlearn ul{
+    list-style: none;
+    padding: 60px;
+    color: #424245;
+    font-size: 12px;
+}
+.ulshop{
+    line-height: 30px;
+
+}
+.services{
+    color: #6e6e73;
+    margin-bottom: 20px;
+}
+.services ul{
+    list-style: none;
+    padding: 60px;
+    color: #424245;
+    font-size: 12px;
+}
+.service{
+    line-height: 26px;
+
+}
+#S{
+    color: #1d1d1f;
+    margin-bottom: 12px;
+}
+ /* footer apple store section */
+.applestore{
+    color: #6e6e73;
+    margin-bottom: 20px;
+}
+#applestore{
+    margin-top: 4px;
+    color: #1d1d1f;
+}
+.applestore ul{
+    list-style: none;
+    padding: 60px;
+    color: #424245;
+    font-size: 12px;
+}
+.apple{
+    line-height: 26px;
+}
+#applestore{
+    color: #1d1d1f;
+    margin-bottom: 12px;
+}
+
+/* for business footer section */
+.forbusiness{
+    color: #6e6e73;
+    margin-bottom: 20px;
+}
+#forbusi{
+    margin-top: 4px;
+    color: #1d1d1f;
+}
+.forbusiness ul{
+    list-style: none;
+    padding: 60px;
+    color: #424245;
+    font-size: 12px;
+}
+.business{
+    line-height: 26px;
+
+}
+#foredu{
+    color: #1d1d1f;
+    margin-bottom: 12px;
+}
+#forhea{
+    color: #1d1d1f;
+    margin-top: 12px;
+    margin-bottom: 2px;
+}
+/* Apple values Footer */
+.applevalues{
+    color: #6e6e73;
+    margin-bottom: 10px;
+}
+.applevalues ul{
+    list-style: none;
+    padding: 50px;
+    color: #424245;
+    font-size: 12px;
+}
+#appleval{
+    margin-top: 4px;
+    color: #1d1d1f;
+}
+.applevalul
+{
+    line-height: 26px;
+
+}
+#aboutapple{
+    color: #1d1d1f;
+    margin-bottom: 12px;
+}
+#aboutapple{
+    color: #1d1d1f;
+    margin-top: 12px;
+    margin-bottom: 2px;
+}
